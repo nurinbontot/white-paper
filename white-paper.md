@@ -160,7 +160,7 @@ tea tasters, typically, are experienced software developers willing to dedicate 
 
 Like project supporters, tea tasters can influence a project and package maintainer’s reputation; however, their impact is more significant given their role in validating a project’s security, functionality, and quality. tea tasters will also need to build their reputation to support their claims. The quality of their work and the TEA tokens they put at risk as they stake their reviews combined with other external data sources will build each tea taster’s reputation, bringing more value to their work. See the "[Package & Package Maintainer Reputation](white-paper.md#package-and-package-maintainer-reputation)" section for more details on the mechanisms used to influence a project and package maintainer’s reputation.
 
-### Project Registration and Proof of Contribution Rewards
+### Project Registration and Proof of Contribution Rewards.
 
 The registration of a project release requires multiple transactions to occur atomically. Specifically:
 
